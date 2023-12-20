@@ -5,3 +5,7 @@
     - name: call role
       include_role:
         name: sample_role
+        
+    - name: call role
+      include_role:
+        name: sample_role_2
