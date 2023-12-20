@@ -1,0 +1,7 @@
+- name: Playbook sample
+  hosts: inventory_
+  gather_facts: false
+  tasks:
+    - name: call role
+      include_role:
+        name: 
