@@ -1,1 +1,2 @@
-
+    - name: Print Hello world
+      debug: "Hello world"
