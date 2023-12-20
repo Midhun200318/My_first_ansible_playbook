@@ -4,4 +4,4 @@
   tasks:
     - name: call role
       include_role:
-        name: 
+        name: sample_role
