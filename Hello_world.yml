@@ -1,0 +1,6 @@
+---
+- name: Playbook to print Hello world
+  hosts: Windows inventory
+  tasks:
+    - name: Print Hello world
+      debug: "Hello world"
